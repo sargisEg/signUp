@@ -1,0 +1,6 @@
+rootProject.name = 'SignUp'
+include 'entity'
+include 'feign-test'
+include 'Core-module'
+include 'lib-module'
+
